@@ -1,0 +1,31 @@
+{
+    "AS_Button_e570c1bf16534d0ca04f29f3a3e9a14d": {
+        "id": "AS_Button_e570c1bf16534d0ca04f29f3a3e9a14d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Login",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fb6e88e7d7c94c68aa13478d43b174b5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___b0e212a85347441d8ba4fa08a9c77733",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Main",
+            "formKUID": "d1e2651ad527406fa62dac62fdcca24e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"Button0c2519d73e71f4a\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

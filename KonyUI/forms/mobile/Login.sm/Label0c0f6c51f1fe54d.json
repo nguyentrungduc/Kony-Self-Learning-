@@ -1,0 +1,89 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_blur_": {
+        "enabled": true,
+        "value": 20
+    },
+    "_height_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s68f5f2344484d8baf3e5ddbaa617d0e",
+    "_text_": "Demo Kony App",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "lineSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "20%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "Label0c0f6c51f1fe54d",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "textCopyable": true,
+            "wrapping": 2
+        },
+        "textStyle": {
+            "minLineHeight": 0
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b4657b3091bb49cb812651de69bc6206",
+    "maxnumberoflines": 2,
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "Login",
+    "pf": "Login",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "textstyle": {},
+    "texttruncateposition": 0,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

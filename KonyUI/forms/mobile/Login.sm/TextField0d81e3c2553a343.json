@@ -1,0 +1,89 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "Default": {
+        "contentAlignment": 4
+    },
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Password",
+    "_skin_": "s02ee4ff2ffa4b1da8cc4001d04ce7be",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "356dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "android": {
+        "contentAlignment": 1
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {},
+    "focusskin": "s473c32319a947209da9ecef6d2d3225",
+    "id": "TextField0d81e3c2553a343",
+    "info": null,
+    "iphone": {
+        "contentAlignment": 4
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "dcb56bd3621b4d38a77b6f91f105dc1b",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "Login",
+    "pf": "Login",
+    "placeholderskin": "s88322a7cee6450a8adf871e4dc9e278",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "spa": {
+        "contentAlignment": 1
+    },
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "winphone8": {
+        "contentAlignment": 1
+    },
+    "zindex": 1
+}
