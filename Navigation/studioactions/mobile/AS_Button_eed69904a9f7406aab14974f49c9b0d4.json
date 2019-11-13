@@ -1,0 +1,56 @@
+{
+    "AS_Button_eed69904a9f7406aab14974f49c9b0d4": {
+        "id": "AS_Button_eed69904a9f7406aab14974f49c9b0d4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Navigation",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d7215c55d3444f79ad2c609603d7ab84"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___bce978e6074f47deb9e94359c1195ece",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Detail",
+            "formKUID": "a323946ac3ab4cc98757d738c67d4581",
+            "mappings": {
+                "ME_Mapping_hab5dbb1a82f448a8b86b323ca1848c1": {
+                    "channel": "mobile",
+                    "id": "ME_Mapping_hab5dbb1a82f448a8b86b323ca1848c1",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "propertyKey": "TextField0cf06874b39a64f_text",
+                        "widgetId": "TextField0cf06874b39a64f",
+                        "widgetPath": "this.view.TextField0cf06874b39a64f",
+                        "widgetType": "TextField",
+                        "dataType": "string",
+                        "itemId": "Navigation",
+                        "widgetKUID": "gb3ae1d6e04c45acb7d51fc72372993c",
+                        "itemKUID": "d7215c55d3444f79ad2c609603d7ab84",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "forkedPlatform": "all"
+                    }
+                }
+            },
+            "mappingsOrder": ["ME_Mapping_hab5dbb1a82f448a8b86b323ca1848c1"],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "enableNavigationObj": true,
+            "navigationObj": "{\n\"TextField0cf06874b39a64f_text\" : self.view.TextField0cf06874b39a64f.text,\n\"_meta_\" : {\n\t\"eventName\" : \"onClick\",\n\t\"widgetId\" : \"Button0ce13b369da7f4a\"\n}\n}",
+            "isCustomInput": false
+        }]
+    }
+}

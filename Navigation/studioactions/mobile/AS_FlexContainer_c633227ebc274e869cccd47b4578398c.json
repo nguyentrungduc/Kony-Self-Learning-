@@ -1,0 +1,31 @@
+{
+    "AS_FlexContainer_c633227ebc274e869cccd47b4578398c": {
+        "id": "AS_FlexContainer_c633227ebc274e869cccd47b4578398c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Navigation",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d7215c55d3444f79ad2c609603d7ab84"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___d4ef4a08cd424e1e8788135c26f52f94",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Navigation",
+            "formKUID": "d7215c55d3444f79ad2c609603d7ab84",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n\"_meta_\" : {\n\t\"eventName\" : \"onClick\",\n\t\"widgetId\" : \"footerEditToolbar\"\n}\n}",
+            "isCustomInput": false
+        }]
+    }
+}

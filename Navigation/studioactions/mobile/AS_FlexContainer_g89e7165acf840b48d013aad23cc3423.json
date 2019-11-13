@@ -1,0 +1,26 @@
+{
+    "AS_FlexContainer_g89e7165acf840b48d013aad23cc3423": {
+        "id": "AS_FlexContainer_g89e7165acf840b48d013aad23cc3423",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_fc5eb1158a4245fb9776d173dcc883b2",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Form2",
+            "formKUID": "ae661be39087479cae23a9193fcea6ed",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "enableNavigationObj": true,
+            "navigationObj": "{\n\"_meta_\" : {\n\t\"eventName\" : \"onClick\",\n\t\"widgetId\" : \"CopyFlexContainer0dbc93143e58c45\"\n}\n}",
+            "isCustomInput": false
+        }]
+    }
+}

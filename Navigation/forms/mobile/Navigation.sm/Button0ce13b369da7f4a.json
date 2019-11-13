@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s23a8620de724da683506bab66e355e0",
+    "_text_": "Go Detail",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "70%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sdd1f511dc274fc69d8faccecfc04f9a",
+    "id": "Button0ce13b369da7f4a",
+    "ide_onClick": "AS_Button_eed69904a9f7406aab14974f49c9b0d4",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j0d6fce299444c51b50a3ff6ab77e268",
+    "name": "kony.ui.Button",
+    "parent": "main1",
+    "pf": "Navigation",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

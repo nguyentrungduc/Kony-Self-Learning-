@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "225dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf61e8ca19bd4757b711104847b6c13a",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopybtnReply0ca4d0318a3fb4c",
+        "CopytvBack0a12b82993b6646"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CopyFlexContainer0d8d0fa9cc45247",
+    "ide_onClick": "AS_FlexContainer_f4c70492f32c46e69edaf0c7450f8d4d",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e41411c53ceb42fbbb735786308bcd6c",
+    "layouttype": 4,
+    "masterType": 1,
+    "name": "kony.ui.FlexContainer",
+    "parent": "footerEditToolbar2",
+    "pf": "Form4",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}
